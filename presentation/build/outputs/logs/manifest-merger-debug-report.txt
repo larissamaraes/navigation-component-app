@@ -4,56 +4,64 @@ ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/ma
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/3b69632938b34748371b17839a3a1543/AndroidManifest.xml:17:1-30:12
-MERGED from [com.android.databinding:adapters:3.1.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/a709f245ec888a1c3d2410b70196e034/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.databinding:library:3.1.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/8620494b5e5832a9812f4ac7a7299050/AndroidManifest.xml:17:1-24:12
-MERGED from [:data] /home/larissa/Documentos/navigation-component-app/data/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1182b1eb3c454260db8faf854464ea5e/AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:2:1-23:12
-MERGED from [com.google.dagger:dagger-android-support:2.15] /home/larissa/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.15.aar/2fda4d82c1a89e4772ded3ae2ffca68b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/34ecc8b04f8e7b48344396d3b801ee88/AndroidManifest.xml:17:1-22:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/ff643c9d5c1d13854d4a45eb4e3704a6/AndroidManifest.xml:15:1-20:12
-MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/18b97357e6a9eacaa88705b6193ccf9e/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.dagger:dagger-android:2.15] /home/larissa/.gradle/caches/transforms-1/files-1.1/dagger-android-2.15.aar/4db1163a73fe6f7fb934366409caebc8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:multidex:1.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/0ad3cdcecbf3c578d95c24941fe642e5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:2:1-19:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/e0062972050004fe0dd693d727eab20f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/35946ef744f547479c48eb72c6d83d12/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3ebb9d2c798906f848cf0c6774ce6c0f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/883472c291e05f0b056ee386c2a0543f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3a07fc5ead033ddfd507c237420c6bb4/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/dcc5066a1438ac42ac345966868adc25/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d5177ccc40b08ce2f55f2bfea1bfd772/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6f9f42ecfc04217f3923b904e9412cfe/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/02de06fa533dcc16c62abd1532630cfa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/692cfd344875f6009ba5db75e57c39c9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9336749c6ac2cb6541592fb8264ca83f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ee1203f18a76bf3edbd3568da5feab6f/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.persistence.room:rxjava2:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxjava2-1.1.1.aar/a6384b1caaa75834485121ebc3240f71/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/885aebec160a52e7f00964cfe72a9aba/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2e3e9d424250b2f5f37d9581e2292e0c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2741cfcb3132849f5a9a785b52b8d364/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/36716a2b94390288bfb091250995a4bb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e93724231d18a75250dbf3b48657a20f/AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/110e3d5b414d1345556e6cb0c58b6987/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/35df2a29adca15bc64b2a439c3902547/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/94d041e20e07bcb3068272b998b89c83/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dc95c2ad2d89ddfc1721b173d75d6ebb/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d23cb65412ed984d2984452d217e723e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6dbcfd38ad5a584f3fed53fbe6bb31f0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7552a71c1d4da3bdb5d727673cab0632/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.persistence:db-framework:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/fdbe84316a15e24278a96b7e3f02ff82/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.persistence:db:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/29af7a2cffbf6ef0f629a3edaf6608c9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/58594375dc93a5c4f9ebb5d8acd33618/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/553670da0f3c86124927099c4ab13fce/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d18f4ecd071293406febb0379e9ccc37/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bff53b27d61602d81a95ef6f56bfa251/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/68106152697d1d4c4c751b8bfe06c338/AndroidManifest.xml:17:1-22:12
-MERGED from [com.jakewharton.timber:timber:4.4.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/timber-4.4.0.aar/26f5af9ecfc7f497752a7d258b428d28/AndroidManifest.xml:2:1-10:12
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.0.aar/95d210ae11b4e882650b9260717d5138/AndroidManifest.xml:45:1-56:12
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/d5cf1992ef56f603db73847749a25502/AndroidManifest.xml:22:1-33:12
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/ec536bfed4391531f31643407be9fbab/AndroidManifest.xml:2:1-13:12
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/a9e80f153ffc8ec32630c2db523cb833/AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d52c2639d4d85391c52ef4ce169e96ca/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.databinding:adapters:3.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/b4722d9b10b8755770bd17f70557d3cc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/b42ccf0d1ee4a3709ab32c73487d5cba/AndroidManifest.xml:17:1-24:12
+MERGED from [:data] /home/larissa/Documentos/navigation-component-app/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/23768bfc3b607e0d9ebdddf5bd48f183/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/74a2116e86326d19b97bb9590ff509fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/4c2b97af0e455eac8b99bdbf4b5fd831/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.dagger:dagger-android-support:2.15] /home/larissa/.gradle/caches/transforms-2/files-2.1/e03c2242403420a361499f2d12ff6aa8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/3b903bf896bad80f6017640637cdbdb9/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/928ff59dbed04f52ba16b8b26b32b9f1/AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/3d99eb85ed4da0dce4604cdde6c6f8bc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.dagger:dagger-android:2.15] /home/larissa/.gradle/caches/transforms-2/files-2.1/b847ae6d73478c97128cde65e0f4207c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/a65660c5c538a05b3398210fda9cfbc8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:2:1-19:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/f30575038301b395e9227b0a1d59df3f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:rxjava2:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/ec8d476791e1db194dcee5072c66f94c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d5af71b85748f6a60f9d47193c263b03/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/fc88e2b2e9fa63b154157c4bd69a2a85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/374c7be831c6197e95980a4c92e2f9c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/afc1b0cf5b9cae3452f84db0165bda08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/00b7f735892f1210215ff4ab960cf878/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/8a649117400eee5ab872e2b218d5e26c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/17f4a2fd59ab82ad025f87c15f991da4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/65e5f3ee569fa97fad12e225bd7ff908/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/0b8ec7d34664fa2d71b8f847e3e65967/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/39ab18f73d3306c57a407ba2019b0cab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/e2a4dd4cb823d81ae1d2ea7e68d89a7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/d69a0b83a39cfafcc42142aeec328834/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/dcb6cba287af2202efc5448001459e03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/591d1b13e7a93df449ee578e3c756b5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/7ff3eba2ffc9429cc27565909e8ab9b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/cdf1da990684593035f2267cfb748e2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/9d504a067217ffafd00b1572bb5fa581/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/a36d3d2611d731cebb90190e21e8a828/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/22a821c6b8572c2e4a9af2fda6745fac/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/b3c2a41644cfdc6c791bece5cb89f8aa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/19fa52bf1b5ebe5fa7d2fc1187c76868/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/7c32c2e4e552b2f72dda7adfef88ca83/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/4b146a2916e62ddb59b44811cd4752b2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/9954a09002a2c2c7061b1eaf087e78f7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/5bc6021551443dba4bff407cf118ed9c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/83aa5248fb88c64f59b45dc66a6099e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d267281bcbf98c79b97081329a6a9f93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/3da301ded2c0723fc584ef0238cedba9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/d61ebbb3141726865ba797aaf15fcab1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/708c02814ef78d5ec9f869f553414581/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/24902b74887af56736921aeb53c265a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/829c965504e92f37007e5af3193df222/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/2e230dbeadfe9857baa6af2d6c9c0f78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/98fbb541ee357164cc70d92639ad680b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/f31d524e9ff09fc0d4a6caa40824b351/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/c09bb6ac6b4d3833a469b4239ac608bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/11a15a7ad0b0633b1175a94fb77940fd/AndroidManifest.xml:2:1-10:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/421ce8625f30d79772daa70241314883/AndroidManifest.xml:45:1-56:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/e94e3dfb6fdcc9ae47af52161963207b/AndroidManifest.xml:22:1-33:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-2/files-2.1/ee065e735d82f441ef4505a4b6bc61a6/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/113a9a22d974df5ef62f46555c8b3cb1/AndroidManifest.xml:2:1-13:12
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
@@ -75,32 +83,32 @@ INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src
 		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:6:5-39:19
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/3b69632938b34748371b17839a3a1543/AndroidManifest.xml:22:5-28:19
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/3b69632938b34748371b17839a3a1543/AndroidManifest.xml:22:5-28:19
-MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1182b1eb3c454260db8faf854464ea5e/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1182b1eb3c454260db8faf854464ea5e/AndroidManifest.xml:22:5-20
-MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:11:5-21:19
-MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:11:5-21:19
-MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/18b97357e6a9eacaa88705b6193ccf9e/AndroidManifest.xml:9:5-20
-MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/18b97357e6a9eacaa88705b6193ccf9e/AndroidManifest.xml:9:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:11:5-17:19
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:11:5-17:19
-MERGED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e93724231d18a75250dbf3b48657a20f/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e93724231d18a75250dbf3b48657a20f/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6dbcfd38ad5a584f3fed53fbe6bb31f0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6dbcfd38ad5a584f3fed53fbe6bb31f0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.jakewharton.timber:timber:4.4.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/timber-4.4.0.aar/26f5af9ecfc7f497752a7d258b428d28/AndroidManifest.xml:8:5-20
-MERGED from [com.jakewharton.timber:timber:4.4.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/timber-4.4.0.aar/26f5af9ecfc7f497752a7d258b428d28/AndroidManifest.xml:8:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.0.aar/95d210ae11b4e882650b9260717d5138/AndroidManifest.xml:54:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.0.aar/95d210ae11b4e882650b9260717d5138/AndroidManifest.xml:54:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/d5cf1992ef56f603db73847749a25502/AndroidManifest.xml:31:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/d5cf1992ef56f603db73847749a25502/AndroidManifest.xml:31:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/ec536bfed4391531f31643407be9fbab/AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/ec536bfed4391531f31643407be9fbab/AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/a9e80f153ffc8ec32630c2db523cb833/AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/a9e80f153ffc8ec32630c2db523cb833/AndroidManifest.xml:11:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d52c2639d4d85391c52ef4ce169e96ca/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d52c2639d4d85391c52ef4ce169e96ca/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/4c2b97af0e455eac8b99bdbf4b5fd831/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/4c2b97af0e455eac8b99bdbf4b5fd831/AndroidManifest.xml:22:5-20
+MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:11:5-21:19
+MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:11:5-21:19
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/3d99eb85ed4da0dce4604cdde6c6f8bc/AndroidManifest.xml:9:5-20
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/3d99eb85ed4da0dce4604cdde6c6f8bc/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/7c32c2e4e552b2f72dda7adfef88ca83/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/7c32c2e4e552b2f72dda7adfef88ca83/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/3da301ded2c0723fc584ef0238cedba9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/3da301ded2c0723fc584ef0238cedba9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.jakewharton.timber:timber:4.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/11a15a7ad0b0633b1175a94fb77940fd/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/11a15a7ad0b0633b1175a94fb77940fd/AndroidManifest.xml:8:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/421ce8625f30d79772daa70241314883/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/421ce8625f30d79772daa70241314883/AndroidManifest.xml:54:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/e94e3dfb6fdcc9ae47af52161963207b/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/e94e3dfb6fdcc9ae47af52161963207b/AndroidManifest.xml:31:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-2/files-2.1/ee065e735d82f441ef4505a4b6bc61a6/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-2/files-2.1/ee065e735d82f441ef4505a4b6bc61a6/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/113a9a22d974df5ef62f46555c8b3cb1/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/113a9a22d974df5ef62f46555c8b3cb1/AndroidManifest.xml:11:5-20
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e93724231d18a75250dbf3b48657a20f/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/7c32c2e4e552b2f72dda7adfef88ca83/AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:11:9-35
 	android:label
@@ -167,106 +175,122 @@ uses-sdk
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/3b69632938b34748371b17839a3a1543/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/3b69632938b34748371b17839a3a1543/AndroidManifest.xml:20:5-44
-MERGED from [com.android.databinding:adapters:3.1.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/a709f245ec888a1c3d2410b70196e034/AndroidManifest.xml:22:5-44
-MERGED from [com.android.databinding:adapters:3.1.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/a709f245ec888a1c3d2410b70196e034/AndroidManifest.xml:22:5-44
-MERGED from [com.android.databinding:library:3.1.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/8620494b5e5832a9812f4ac7a7299050/AndroidManifest.xml:22:5-44
-MERGED from [com.android.databinding:library:3.1.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/8620494b5e5832a9812f4ac7a7299050/AndroidManifest.xml:22:5-44
-MERGED from [:data] /home/larissa/Documentos/navigation-component-app/data/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:data] /home/larissa/Documentos/navigation-component-app/data/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1182b1eb3c454260db8faf854464ea5e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/1182b1eb3c454260db8faf854464ea5e/AndroidManifest.xml:20:5-44
-MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.dagger:dagger-android-support:2.15] /home/larissa/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.15.aar/2fda4d82c1a89e4772ded3ae2ffca68b/AndroidManifest.xml:20:5-44
-MERGED from [com.google.dagger:dagger-android-support:2.15] /home/larissa/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.15.aar/2fda4d82c1a89e4772ded3ae2ffca68b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/34ecc8b04f8e7b48344396d3b801ee88/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/34ecc8b04f8e7b48344396d3b801ee88/AndroidManifest.xml:20:5-44
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/ff643c9d5c1d13854d4a45eb4e3704a6/AndroidManifest.xml:18:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/ff643c9d5c1d13854d4a45eb4e3704a6/AndroidManifest.xml:18:5-43
-MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/18b97357e6a9eacaa88705b6193ccf9e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/18b97357e6a9eacaa88705b6193ccf9e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.dagger:dagger-android:2.15] /home/larissa/.gradle/caches/transforms-1/files-1.1/dagger-android-2.15.aar/4db1163a73fe6f7fb934366409caebc8/AndroidManifest.xml:20:5-44
-MERGED from [com.google.dagger:dagger-android:2.15] /home/larissa/.gradle/caches/transforms-1/files-1.1/dagger-android-2.15.aar/4db1163a73fe6f7fb934366409caebc8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:multidex:1.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/0ad3cdcecbf3c578d95c24941fe642e5/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/0ad3cdcecbf3c578d95c24941fe642e5/AndroidManifest.xml:20:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/e0062972050004fe0dd693d727eab20f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/e0062972050004fe0dd693d727eab20f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/35946ef744f547479c48eb72c6d83d12/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/35946ef744f547479c48eb72c6d83d12/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3ebb9d2c798906f848cf0c6774ce6c0f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3ebb9d2c798906f848cf0c6774ce6c0f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/883472c291e05f0b056ee386c2a0543f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/883472c291e05f0b056ee386c2a0543f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3a07fc5ead033ddfd507c237420c6bb4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3a07fc5ead033ddfd507c237420c6bb4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/dcc5066a1438ac42ac345966868adc25/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/dcc5066a1438ac42ac345966868adc25/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d5177ccc40b08ce2f55f2bfea1bfd772/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d5177ccc40b08ce2f55f2bfea1bfd772/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6f9f42ecfc04217f3923b904e9412cfe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6f9f42ecfc04217f3923b904e9412cfe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/02de06fa533dcc16c62abd1532630cfa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/02de06fa533dcc16c62abd1532630cfa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/692cfd344875f6009ba5db75e57c39c9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/692cfd344875f6009ba5db75e57c39c9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9336749c6ac2cb6541592fb8264ca83f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9336749c6ac2cb6541592fb8264ca83f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ee1203f18a76bf3edbd3568da5feab6f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ee1203f18a76bf3edbd3568da5feab6f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence.room:rxjava2:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxjava2-1.1.1.aar/a6384b1caaa75834485121ebc3240f71/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence.room:rxjava2:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/rxjava2-1.1.1.aar/a6384b1caaa75834485121ebc3240f71/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/885aebec160a52e7f00964cfe72a9aba/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/885aebec160a52e7f00964cfe72a9aba/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2e3e9d424250b2f5f37d9581e2292e0c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2e3e9d424250b2f5f37d9581e2292e0c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2741cfcb3132849f5a9a785b52b8d364/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2741cfcb3132849f5a9a785b52b8d364/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/36716a2b94390288bfb091250995a4bb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/36716a2b94390288bfb091250995a4bb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e93724231d18a75250dbf3b48657a20f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e93724231d18a75250dbf3b48657a20f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/110e3d5b414d1345556e6cb0c58b6987/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/110e3d5b414d1345556e6cb0c58b6987/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/35df2a29adca15bc64b2a439c3902547/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/35df2a29adca15bc64b2a439c3902547/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/94d041e20e07bcb3068272b998b89c83/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/94d041e20e07bcb3068272b998b89c83/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dc95c2ad2d89ddfc1721b173d75d6ebb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dc95c2ad2d89ddfc1721b173d75d6ebb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d23cb65412ed984d2984452d217e723e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d23cb65412ed984d2984452d217e723e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6dbcfd38ad5a584f3fed53fbe6bb31f0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6dbcfd38ad5a584f3fed53fbe6bb31f0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7552a71c1d4da3bdb5d727673cab0632/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7552a71c1d4da3bdb5d727673cab0632/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence:db-framework:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/fdbe84316a15e24278a96b7e3f02ff82/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence:db-framework:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/fdbe84316a15e24278a96b7e3f02ff82/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence:db:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/29af7a2cffbf6ef0f629a3edaf6608c9/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.persistence:db:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/29af7a2cffbf6ef0f629a3edaf6608c9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/58594375dc93a5c4f9ebb5d8acd33618/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/58594375dc93a5c4f9ebb5d8acd33618/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/553670da0f3c86124927099c4ab13fce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/553670da0f3c86124927099c4ab13fce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d18f4ecd071293406febb0379e9ccc37/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d18f4ecd071293406febb0379e9ccc37/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bff53b27d61602d81a95ef6f56bfa251/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bff53b27d61602d81a95ef6f56bfa251/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/68106152697d1d4c4c751b8bfe06c338/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/68106152697d1d4c4c751b8bfe06c338/AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton.timber:timber:4.4.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/timber-4.4.0.aar/26f5af9ecfc7f497752a7d258b428d28/AndroidManifest.xml:6:5-43
-MERGED from [com.jakewharton.timber:timber:4.4.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/timber-4.4.0.aar/26f5af9ecfc7f497752a7d258b428d28/AndroidManifest.xml:6:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.0.aar/95d210ae11b4e882650b9260717d5138/AndroidManifest.xml:50:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.0.aar/95d210ae11b4e882650b9260717d5138/AndroidManifest.xml:50:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/d5cf1992ef56f603db73847749a25502/AndroidManifest.xml:27:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/d5cf1992ef56f603db73847749a25502/AndroidManifest.xml:27:5-43
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/ec536bfed4391531f31643407be9fbab/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/ec536bfed4391531f31643407be9fbab/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/a9e80f153ffc8ec32630c2db523cb833/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/a9e80f153ffc8ec32630c2db523cb833/AndroidManifest.xml:7:5-43
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d52c2639d4d85391c52ef4ce169e96ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d52c2639d4d85391c52ef4ce169e96ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.databinding:adapters:3.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/b4722d9b10b8755770bd17f70557d3cc/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/b4722d9b10b8755770bd17f70557d3cc/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/b42ccf0d1ee4a3709ab32c73487d5cba/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/b42ccf0d1ee4a3709ab32c73487d5cba/AndroidManifest.xml:22:5-44
+MERGED from [:data] /home/larissa/Documentos/navigation-component-app/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:data] /home/larissa/Documentos/navigation-component-app/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/23768bfc3b607e0d9ebdddf5bd48f183/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/23768bfc3b607e0d9ebdddf5bd48f183/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/74a2116e86326d19b97bb9590ff509fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/74a2116e86326d19b97bb9590ff509fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/4c2b97af0e455eac8b99bdbf4b5fd831/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/4c2b97af0e455eac8b99bdbf4b5fd831/AndroidManifest.xml:20:5-44
+MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.dagger:dagger-android-support:2.15] /home/larissa/.gradle/caches/transforms-2/files-2.1/e03c2242403420a361499f2d12ff6aa8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.15] /home/larissa/.gradle/caches/transforms-2/files-2.1/e03c2242403420a361499f2d12ff6aa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/3b903bf896bad80f6017640637cdbdb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/3b903bf896bad80f6017640637cdbdb9/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/928ff59dbed04f52ba16b8b26b32b9f1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/928ff59dbed04f52ba16b8b26b32b9f1/AndroidManifest.xml:18:5-43
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/3d99eb85ed4da0dce4604cdde6c6f8bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/3d99eb85ed4da0dce4604cdde6c6f8bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.dagger:dagger-android:2.15] /home/larissa/.gradle/caches/transforms-2/files-2.1/b847ae6d73478c97128cde65e0f4207c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.15] /home/larissa/.gradle/caches/transforms-2/files-2.1/b847ae6d73478c97128cde65e0f4207c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/a65660c5c538a05b3398210fda9cfbc8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/a65660c5c538a05b3398210fda9cfbc8/AndroidManifest.xml:20:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:7:5-43
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/f30575038301b395e9227b0a1d59df3f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/f30575038301b395e9227b0a1d59df3f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:rxjava2:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/ec8d476791e1db194dcee5072c66f94c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:rxjava2:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/ec8d476791e1db194dcee5072c66f94c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d5af71b85748f6a60f9d47193c263b03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d5af71b85748f6a60f9d47193c263b03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/fc88e2b2e9fa63b154157c4bd69a2a85/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/fc88e2b2e9fa63b154157c4bd69a2a85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/374c7be831c6197e95980a4c92e2f9c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/374c7be831c6197e95980a4c92e2f9c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/afc1b0cf5b9cae3452f84db0165bda08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/afc1b0cf5b9cae3452f84db0165bda08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/00b7f735892f1210215ff4ab960cf878/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/00b7f735892f1210215ff4ab960cf878/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/8a649117400eee5ab872e2b218d5e26c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/8a649117400eee5ab872e2b218d5e26c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/17f4a2fd59ab82ad025f87c15f991da4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/17f4a2fd59ab82ad025f87c15f991da4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/65e5f3ee569fa97fad12e225bd7ff908/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/65e5f3ee569fa97fad12e225bd7ff908/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/0b8ec7d34664fa2d71b8f847e3e65967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/0b8ec7d34664fa2d71b8f847e3e65967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/39ab18f73d3306c57a407ba2019b0cab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/39ab18f73d3306c57a407ba2019b0cab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/e2a4dd4cb823d81ae1d2ea7e68d89a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/e2a4dd4cb823d81ae1d2ea7e68d89a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/d69a0b83a39cfafcc42142aeec328834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/d69a0b83a39cfafcc42142aeec328834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/dcb6cba287af2202efc5448001459e03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/dcb6cba287af2202efc5448001459e03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/591d1b13e7a93df449ee578e3c756b5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/591d1b13e7a93df449ee578e3c756b5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/7ff3eba2ffc9429cc27565909e8ab9b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/7ff3eba2ffc9429cc27565909e8ab9b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/cdf1da990684593035f2267cfb748e2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/cdf1da990684593035f2267cfb748e2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/9d504a067217ffafd00b1572bb5fa581/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/9d504a067217ffafd00b1572bb5fa581/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/a36d3d2611d731cebb90190e21e8a828/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/a36d3d2611d731cebb90190e21e8a828/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/22a821c6b8572c2e4a9af2fda6745fac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/22a821c6b8572c2e4a9af2fda6745fac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/b3c2a41644cfdc6c791bece5cb89f8aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/b3c2a41644cfdc6c791bece5cb89f8aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/19fa52bf1b5ebe5fa7d2fc1187c76868/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/19fa52bf1b5ebe5fa7d2fc1187c76868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/7c32c2e4e552b2f72dda7adfef88ca83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/7c32c2e4e552b2f72dda7adfef88ca83/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/4b146a2916e62ddb59b44811cd4752b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/4b146a2916e62ddb59b44811cd4752b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/9954a09002a2c2c7061b1eaf087e78f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/9954a09002a2c2c7061b1eaf087e78f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/5bc6021551443dba4bff407cf118ed9c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/5bc6021551443dba4bff407cf118ed9c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/83aa5248fb88c64f59b45dc66a6099e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/83aa5248fb88c64f59b45dc66a6099e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d267281bcbf98c79b97081329a6a9f93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d267281bcbf98c79b97081329a6a9f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/3da301ded2c0723fc584ef0238cedba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/3da301ded2c0723fc584ef0238cedba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/d61ebbb3141726865ba797aaf15fcab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/d61ebbb3141726865ba797aaf15fcab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/708c02814ef78d5ec9f869f553414581/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/708c02814ef78d5ec9f869f553414581/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/24902b74887af56736921aeb53c265a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/24902b74887af56736921aeb53c265a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/829c965504e92f37007e5af3193df222/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/829c965504e92f37007e5af3193df222/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/2e230dbeadfe9857baa6af2d6c9c0f78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/2e230dbeadfe9857baa6af2d6c9c0f78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/98fbb541ee357164cc70d92639ad680b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/98fbb541ee357164cc70d92639ad680b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/f31d524e9ff09fc0d4a6caa40824b351/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/f31d524e9ff09fc0d4a6caa40824b351/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/c09bb6ac6b4d3833a469b4239ac608bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/c09bb6ac6b4d3833a469b4239ac608bf/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/11a15a7ad0b0633b1175a94fb77940fd/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/11a15a7ad0b0633b1175a94fb77940fd/AndroidManifest.xml:6:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/421ce8625f30d79772daa70241314883/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/421ce8625f30d79772daa70241314883/AndroidManifest.xml:50:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/e94e3dfb6fdcc9ae47af52161963207b/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/e94e3dfb6fdcc9ae47af52161963207b/AndroidManifest.xml:27:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-2/files-2.1/ee065e735d82f441ef4505a4b6bc61a6/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-2/files-2.1/ee065e735d82f441ef4505a4b6bc61a6/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/113a9a22d974df5ef62f46555c8b3cb1/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/113a9a22d974df5ef62f46555c8b3cb1/AndroidManifest.xml:7:5-43
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -278,50 +302,50 @@ INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src
 		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
 		INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
 provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/3b69632938b34748371b17839a3a1543/AndroidManifest.xml:23:9-27:43
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d52c2639d4d85391c52ef4ce169e96ca/AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/3b69632938b34748371b17839a3a1543/AndroidManifest.xml:25:13-68
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d52c2639d4d85391c52ef4ce169e96ca/AndroidManifest.xml:25:13-68
 	android:multiprocess
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/3b69632938b34748371b17839a3a1543/AndroidManifest.xml:27:13-40
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d52c2639d4d85391c52ef4ce169e96ca/AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/3b69632938b34748371b17839a3a1543/AndroidManifest.xml:26:13-37
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d52c2639d4d85391c52ef4ce169e96ca/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/3b69632938b34748371b17839a3a1543/AndroidManifest.xml:24:13-83
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/d52c2639d4d85391c52ef4ce169e96ca/AndroidManifest.xml:24:13-83
 provider#pl.aprilapps.easyphotopicker.ExtendedFileProvider
-ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:12:9-20:20
+ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:12:9-20:20
 	android:grantUriPermissions
-		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:16:13-47
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:16:13-47
 	android:authorities
-		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:14:13-80
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:14:13-80
 	android:exported
-		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:15:13-37
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:13:13-77
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:13:13-77
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:17:13-19:53
+ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:17:13-19:53
 	android:resource
-		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:19:17-50
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:19:17-50
 	android:name
-		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-1/files-1.1/EasyImage-2.0.3.aar/40bde19adaa07578dc8521fdb9568bf2/AndroidManifest.xml:18:17-67
+		ADDED from [com.github.jkwiecien:EasyImage:2.0.3] /home/larissa/.gradle/caches/transforms-2/files-2.1/51631397dd87e3980362075ba65b078a/AndroidManifest.xml:18:17-67
 uses-permission#android.permission.INTERNET
-ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.0.aar/95d210ae11b4e882650b9260717d5138/AndroidManifest.xml:52:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.0.aar/95d210ae11b4e882650b9260717d5138/AndroidManifest.xml:52:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/d5cf1992ef56f603db73847749a25502/AndroidManifest.xml:29:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/d5cf1992ef56f603db73847749a25502/AndroidManifest.xml:29:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/ec536bfed4391531f31643407be9fbab/AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/ec536bfed4391531f31643407be9fbab/AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/a9e80f153ffc8ec32630c2db523cb833/AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/a9e80f153ffc8ec32630c2db523cb833/AndroidManifest.xml:9:5-67
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/421ce8625f30d79772daa70241314883/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/421ce8625f30d79772daa70241314883/AndroidManifest.xml:52:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/e94e3dfb6fdcc9ae47af52161963207b/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/e94e3dfb6fdcc9ae47af52161963207b/AndroidManifest.xml:29:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-2/files-2.1/ee065e735d82f441ef4505a4b6bc61a6/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-2/files-2.1/ee065e735d82f441ef4505a4b6bc61a6/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/113a9a22d974df5ef62f46555c8b3cb1/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/113a9a22d974df5ef62f46555c8b3cb1/AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:9:22-64
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:9:22-64
 provider#com.crashlytics.android.CrashlyticsInitProvider
-ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:12:9-16:39
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:12:9-16:39
 	android:authorities
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:14:13-75
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:14:13-75
 	android:exported
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:15:13-37
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:15:13-37
 	android:initOrder
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:16:13-36
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.0.aar/918bac28e3568c4d0e8fb6d7a9fceaa3/AndroidManifest.xml:13:13-75
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/aba3726dc05943e00d947714b2965b6d/AndroidManifest.xml:13:13-75
