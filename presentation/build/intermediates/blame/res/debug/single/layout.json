@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/larissa/app-template-android/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register.xml",
+        "source": "/home/larissa/app-template-android/presentation/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/larissa/app-template-android/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/home/larissa/app-template-android/presentation/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/larissa/app-template-android/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/loading_placeholder.xml",
+        "source": "/home/larissa/app-template-android/presentation/src/main/res/layout/loading_placeholder.xml"
+    }
+]

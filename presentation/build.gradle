@@ -1,0 +1,121 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
+apply plugin: 'kotlin-android-extensions'
+
+repositories {
+    mavenCentral()
+    maven { url "https://jitpack.io" }
+}
+
+android {
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    dataBinding {
+        enabled = true
+    }
+
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        applicationId "br.com.jera.app"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode rootProject.ext.versionCode
+        versionName rootProject.ext.versionName
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField "String", "API_ENDPOINT", "\"$rootProject.ext.apiRelease/$rootProject.ext.apiVersion\""
+            buildConfigField "String", "TERMS_OF_USE_URL", "\"https://jera.com.br\""
+            buildConfigField "String", "PRIVACY_POLICY", "\"https://jera.com.br\""
+            buildConfigField "String", "JERA", "\"https://jera.com.br\""
+        }
+
+        staging {
+            buildConfigField "String", "API_ENDPOINT", "\"$rootProject.ext.apiStaging/$rootProject.ext.apiVersion\""
+            buildConfigField "String", "TERMS_OF_USE_URL", "\"https://jera.com.br\""
+            buildConfigField "String", "PRIVACY_POLICY", "\"https://jera.com.br\""
+            buildConfigField "String", "JERA", "\"https://jera.com.br\""
+        }
+
+        debug {
+            buildConfigField "String", "API_ENDPOINT", "\"$rootProject.ext.apiStaging/$rootProject.ext.apiVersion\""
+            buildConfigField "String", "TERMS_OF_USE_URL", "\"https://jera.com.br\""
+            buildConfigField "String", "PRIVACY_POLICY", "\"https://jera.com.br\""
+            buildConfigField "String", "JERA", "\"https://jera.com.br\""
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation project(':domain')
+    implementation project(":data")
+
+    // android support
+    implementation "com.android.support:appcompat-v7:$supportVersion"
+    implementation "com.android.support:design:$supportVersion"
+
+    // rx
+    implementation "io.reactivex.rxjava2:rxkotlin:$rxKotlinVersion"
+    implementation "io.reactivex.rxjava2:rxandroid:$rxAndroidVersion"
+    compile "com.jakewharton.retrofit:retrofit2-rxjava2-adapter:$rxJava2AdapterVersion"
+
+    //rx permissions
+    implementation "com.github.tbruyelle:rxpermissions:$rxPermissionVersion"
+
+    // easy image
+    implementation "com.github.jkwiecien:EasyImage:$easyImageVersion"
+
+    // dagger
+    implementation "com.google.dagger:dagger:$daggerVersion"
+    kapt "com.google.dagger:dagger-compiler:$daggerVersion"
+
+    // dagger android
+    implementation "com.google.dagger:dagger-android:$daggerVersion"
+    implementation "com.google.dagger:dagger-android-support:$daggerVersion"
+    kapt "com.google.dagger:dagger-android-processor:$daggerVersion"
+
+    // multidex
+    implementation "com.android.support:multidex:$multidexVersion"
+
+    // kotlin
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlinVersion"
+
+    // LiveData + ViewModel
+    api "android.arch.lifecycle:extensions:$rootProject.archLifecycleVersion"
+
+    // crashlytics
+    implementation('com.crashlytics.sdk.android:crashlytics:2.9.0@aar') {
+        transitive = true
+    }
+
+    // glide
+    implementation "com.github.bumptech.glide:glide:$glideVersion"
+    kapt "com.github.bumptech.glide:compiler:$glideVersion"
+
+    // tests
+    testImplementation "org.junit.jupiter:junit-jupiter-api:5.0.0-M4"
+    testImplementation "org.junit.jupiter:junit-jupiter-engine:5.0.0-M4"
+    testImplementation "org.junit.platform:junit-platform-runner:1.0.0-M4"
+    testImplementation 'org.mockito:mockito-core:2.13.0'
+    testImplementation 'org.assertj:assertj-core:2.8.0'
+}
+
+// https://github.com/google/dagger/issues/306
+gradle.projectsEvaluated {
+    tasks.withType(JavaCompile) {
+        options.compilerArgs << "-Xmaxerrs" << "500"
+    }
+}

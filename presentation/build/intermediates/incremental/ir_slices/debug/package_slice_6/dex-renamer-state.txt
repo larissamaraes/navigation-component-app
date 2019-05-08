@@ -1,0 +1,4 @@
+#Wed May 08 14:58:59 AMT 2019
+base.0=/home/larissa/Documentos/app-template-android/presentation/build/intermediates/transforms/dexMerger/debug/21
+path.0=classes.dex
+renamed.0=classes.dex

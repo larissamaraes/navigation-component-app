@@ -1,0 +1,74 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
+
+repositories {
+    mavenCentral()
+    maven { url "http://dl.bintray.com/daividssilverio/maven" }
+}
+
+android {
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField "String", "API_ENDPOINT", "\"$rootProject.ext.apiRelease/$rootProject.ext.apiVersion\""
+            buildConfigField "String", "TERMS_OF_USE_URL", "\"https://jera.com.br\""
+            buildConfigField "String", "PRIVACY_POLICY", "\"https://jera.com.br\""
+            buildConfigField "String", "JERA", "\"https://jera.com.br\""
+        }
+
+        staging {
+            buildConfigField "String", "API_ENDPOINT", "\"$rootProject.ext.apiStaging/$rootProject.ext.apiVersion\""
+            buildConfigField "String", "TERMS_OF_USE_URL", "\"https://jera.com.br\""
+            buildConfigField "String", "PRIVACY_POLICY", "\"https://jera.com.br\""
+            buildConfigField "String", "JERA", "\"https://jera.com.br\""
+        }
+
+        debug {
+            buildConfigField "String", "API_ENDPOINT", "\"$rootProject.ext.apiStaging/$rootProject.ext.apiVersion\""
+            buildConfigField "String", "TERMS_OF_USE_URL", "\"https://jera.com.br\""
+            buildConfigField "String", "PRIVACY_POLICY", "\"https://jera.com.br\""
+            buildConfigField "String", "JERA", "\"https://jera.com.br\""
+        }
+    }
+}
+
+dependencies {
+    implementation project(':domain')
+
+    implementation "com.squareup.retrofit2:retrofit:$retrofitVersion"
+    api "com.squareup.retrofit2:converter-gson:$retrofitVersion"
+    implementation "com.jakewharton.retrofit:retrofit2-rxjava2-adapter:$retroFitRxJavaAdapterVersion"
+    api "com.squareup.okhttp3:logging-interceptor:$logginInterceptorVersion"
+
+    // rx android
+    api "io.reactivex.rxjava2:rxandroid:$rxAndroidVersion"
+
+    // room
+    kapt "android.arch.persistence.room:compiler:$roomVersion"
+    api "android.arch.persistence.room:runtime:$roomVersion"
+    implementation "android.arch.persistence.room:rxjava2:$roomVersion"
+
+    implementation "com.android.support:appcompat-v7:$supportVersion"
+}
+
