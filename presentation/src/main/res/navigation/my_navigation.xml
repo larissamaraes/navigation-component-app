@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/my_navigation"
+    android:label="label"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.jera.apptemplate.presentation.view.main.dashboard.MainFragment"
+        android:label="@string/label_home">
+        <action
+            android:id="@+id/action_mainFragment_to_balanceFragment"
+            app:destination="@id/balanceFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_peopleFragment"
+            app:destination="@id/peopleFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/balanceFragment"
+        android:name="com.jera.apptemplate.presentation.view.main.balance.BalanceFragment"
+        android:label="BalanceFragment" />
+    <fragment
+        android:id="@+id/peopleFragment"
+        android:name="com.jera.apptemplate.presentation.view.main.people.PeopleFragment"
+        android:label="PeopleFragment">
+        <action
+            android:id="@+id/action_peopleFragment_to_payPersonFragment"
+            app:destination="@id/payPersonFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/payPersonFragment"
+        android:name="com.jera.apptemplate.presentation.view.main.payment.PayPersonFragment"
+        android:label="PayPersonFragment">
+        <action
+            android:id="@+id/action_payPersonFragment_to_disclaimerFragment"
+            app:destination="@id/disclaimerFragment" />
+        <action
+            android:id="@+id/action_payPersonFragment_to_paymentCompleteFragment"
+            app:destination="@id/paymentCompleteFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/disclaimerFragment"
+        android:name="com.jera.apptemplate.presentation.view.main.payment.DisclaimerFragment"
+        android:label="DisclaimerFragment" />
+    <fragment
+        android:id="@+id/paymentCompleteFragment"
+        android:name="com.jera.apptemplate.presentation.view.main.payment.PaymentCompleteFragment"
+        android:label="PaymentCompleteFragment">
+        <action
+            android:id="@+id/action_paymentCompleteFragment_to_mainFragment"
+            app:destination="@id/mainFragment"
+            app:popUpTo="@+id/mainFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+</navigation>
