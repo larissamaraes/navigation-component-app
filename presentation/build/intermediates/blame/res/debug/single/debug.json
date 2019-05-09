@@ -940,6 +940,10 @@
         "source": "/home/larissa/.gradle/caches/transforms-2/files-2.1/4c2b97af0e455eac8b99bdbf4b5fd831/res/animator-v21/design_appbar_state_list_animator.xml"
     },
     {
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/res/merged/debug/navigation_my_navigation.xml.flat",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/navigation/my_navigation.xml"
+    },
+    {
         "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/res/merged/debug/drawable-watch-v20_abc_dialog_material_background.xml.flat",
         "source": "/home/larissa/.gradle/caches/transforms-2/files-2.1/3b903bf896bad80f6017640637cdbdb9/res/drawable-watch-v20/abc_dialog_material_background.xml"
     },

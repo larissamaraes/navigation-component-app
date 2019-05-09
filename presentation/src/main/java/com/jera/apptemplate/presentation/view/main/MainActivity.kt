@@ -2,6 +2,8 @@ package com.jera.apptemplate.presentation.view.main
 
 import android.databinding.DataBindingUtil
 import android.os.Bundle
+import androidx.navigation.findNavController
+import androidx.navigation.ui.NavigationUI
 import com.jera.apptemplate.R
 import com.jera.apptemplate.databinding.ActivityMainBinding
 import com.jera.apptemplate.util.base.BaseActivity
@@ -20,12 +22,10 @@ class MainActivity : BaseActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
+        NavigationUI.setupActionBarWithNavController(this, findNavController(R.id.nav_host_fragment))
     }
 
-//    companion object {
-//        fun createIntent(context: Context): Intent {
-//            return Intent(context, LogInActivity::class.java)
-//                    .apply { shouldClearTask(true) }
-//        }
-//    }
+    override fun onSupportNavigateUp(): Boolean {
+        return findNavController(R.id.nav_host_fragment).navigateUp()
+    }
 }
