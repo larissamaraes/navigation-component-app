@@ -1868,6 +1868,10 @@
         "source": "/home/larissa/.gradle/caches/transforms-2/files-2.1/4c2b97af0e455eac8b99bdbf4b5fd831/res/anim/design_snackbar_in.xml"
     },
     {
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/res/merged/debug/menu_pay_person_menu.xml.flat",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/menu/pay_person_menu.xml"
+    },
+    {
         "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/res/merged/debug/drawable_design_fab_background.xml.flat",
         "source": "/home/larissa/.gradle/caches/transforms-2/files-2.1/4c2b97af0e455eac8b99bdbf4b5fd831/res/drawable/design_fab_background.xml"
     },
