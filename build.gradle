@@ -5,7 +5,7 @@ buildscript {
     ext {
 
         // App configs
-        appName = "App Template"
+        appName = "Navigation Example"
         versionCode = 1
         versionName = "1.0"
         apiRelease = "http://apptemplate.jera.com.br/api"

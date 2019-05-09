@@ -1,5 +1,7 @@
 package com.jera.apptemplate.presentation.view.main
 
+import android.content.Context
+import android.content.Intent
 import android.databinding.DataBindingUtil
 import android.os.Bundle
 import androidx.navigation.findNavController
@@ -8,6 +10,7 @@ import com.jera.apptemplate.R
 import com.jera.apptemplate.databinding.ActivityMainBinding
 import com.jera.apptemplate.util.base.BaseActivity
 import com.jera.apptemplate.util.base.BaseViewModel
+import com.jera.apptemplate.util.extension.shouldClearTask
 import javax.inject.Inject
 
 class MainActivity : BaseActivity() {
@@ -27,5 +30,9 @@ class MainActivity : BaseActivity() {
 
     override fun onSupportNavigateUp(): Boolean {
         return findNavController(R.id.nav_host_fragment).navigateUp()
+    }
+
+    companion object {
+        fun createIntent(context: Context) = Intent(context, MainActivity::class.java)
     }
 }

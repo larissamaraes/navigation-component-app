@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
+ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-30:12
 MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/41532376e9ef3e30b19571eb9e2e57eb/AndroidManifest.xml:17:1-30:12
 MERGED from [com.android.databinding:adapters:3.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/3efec70cf0268e0f5231b2727a25db3e/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.databinding:library:3.4.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/b29cb5bd11b8290e63ed4c057a7b3ea2/AndroidManifest.xml:17:1-24:12
@@ -62,27 +62,27 @@ MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.0] /home/larissa/.
 MERGED from [io.fabric.sdk.android:fabric:1.4.2] /home/larissa/.gradle/caches/transforms-2/files-2.1/876c2f0928bd6ce22382a7eb8298523c/AndroidManifest.xml:22:1-33:12
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /home/larissa/.gradle/caches/transforms-2/files-2.1/33bbfb36ee68935480fb6c5d34a85834/AndroidManifest.xml:2:1-13:12
 MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/67ddca37b3afda23f39edfbf80282616/AndroidManifest.xml:2:1-13:12
-INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:4:5-35
 		INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
 		INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
+		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-40:12
+		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:6:5-39:19
+ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:6:5-29:19
 MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/41532376e9ef3e30b19571eb9e2e57eb/AndroidManifest.xml:22:5-28:19
 MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/larissa/.gradle/caches/transforms-2/files-2.1/41532376e9ef3e30b19571eb9e2e57eb/AndroidManifest.xml:22:5-28:19
 MERGED from [com.android.support:design:28.0.0] /home/larissa/.gradle/caches/transforms-2/files-2.1/9d5bd3ff22f724bcf67897a35e514160/AndroidManifest.xml:22:5-20
@@ -124,53 +124,33 @@ MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /home/larissa/.gradle/ca
 	android:name
 		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:7:9-80
 activity#com.jera.apptemplate.presentation.view.main.MainActivity
-ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:14:9-22:20
+ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:14:9-18:20
 	android:screenOrientation
 		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:17:13-49
 	android:configChanges
 		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:16:13-74
 	android:name
 		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:15:13-84
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:18:13-21:29
-action#android.intent.action.MAIN
-ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:19:17-69
-	android:name
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:19:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:20:17-77
-	android:name
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:20:27-74
 activity#com.jera.apptemplate.presentation.view.splash.SplashActivity
-ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:23:9-28:20
+ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:19:9-28:20
 	android:screenOrientation
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:26:13-49
+		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:22:13-49
 	android:configChanges
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:25:13-74
+		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:21:13-74
 	android:theme
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:27:13-63
+		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:23:13-63
 	android:name
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:24:13-88
-activity#com.jera.apptemplate.presentation.view.user.signin.LogInActivity
-ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:29:9-33:58
-	android:screenOrientation
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:32:13-49
-	android:configChanges
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:31:13-74
-	android:theme
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:33:13-56
+		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:20:13-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:30:13-92
-activity#com.jera.apptemplate.presentation.view.user.signup.SignUpActivity
-ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:34:9-38:58
-	android:screenOrientation
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:37:13-49
-	android:configChanges
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:36:13-74
-	android:theme
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:38:13-56
+		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:35:13-93
+		ADDED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/larissa/Documentos/navigation-component-app/presentation/src/main/AndroidManifest.xml

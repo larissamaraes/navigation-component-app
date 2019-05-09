@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">App - Template</string>
+    <string name="app_name">Navigation Example</string>
     <!--Global Strings-->
     <string name="global_facebook">Facebook</string>
     <string name="global_google">Google</string>
