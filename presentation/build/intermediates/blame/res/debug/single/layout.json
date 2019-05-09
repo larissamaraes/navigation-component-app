@@ -12,6 +12,10 @@
         "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/fragment_pay_person.xml"
     },
     {
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_view_disclaimer.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/fragment_view_disclaimer.xml"
+    },
+    {
         "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_payment_complete.xml",
         "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/fragment_payment_complete.xml"
     },
