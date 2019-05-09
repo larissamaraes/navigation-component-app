@@ -5,7 +5,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
-import com.jera.apptemplate.R
 import com.jera.apptemplate.databinding.FragmentViewPeopleBinding
 import com.jera.apptemplate.util.base.BaseFragment
 
@@ -52,10 +51,12 @@ class PeopleFragment : BaseFragment() {
     }
 
     private fun setupUi() {
-        with(adapter){
+        with(adapter) {
             setItems(PEOPLE_NAMES)
             setOnItemClickedListener {
-                findNavController().navigate(R.id.action_peopleFragment_to_payPersonFragment)
+                findNavController().navigate(
+                        PeopleFragmentDirections.actionPeopleFragmentToPayPersonFragment(it)
+                )
             }
         }
         binding.peopleRecyclerView.adapter = adapter

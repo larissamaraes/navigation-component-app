@@ -38,6 +38,9 @@
         <action
             android:id="@+id/action_payPersonFragment_to_paymentCompleteFragment"
             app:destination="@id/paymentCompleteFragment" />
+        <argument
+            android:name="personName"
+            app:argType="string" />
     </fragment>
     <fragment
         android:id="@+id/disclaimerFragment"
@@ -52,5 +55,14 @@
             app:destination="@id/mainFragment"
             app:popUpTo="@+id/mainFragment"
             app:popUpToInclusive="true" />
+        <argument
+            android:name="personName"
+            app:argType="string" />
+        <argument
+            android:name="accountNumber"
+            app:argType="string" />
+        <argument
+            android:name="amount"
+            app:argType="string" />
     </fragment>
 </navigation>

@@ -4,7 +4,7 @@
             "outputFile": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/larissa/.gradle/caches/transforms-2/files-2.1/3b903bf896bad80f6017640637cdbdb9/res/values-v23/values-v23.xml",
+                    "source": "/home/larissa/.gradle/caches/transforms-2/files-2.1/ae8e89d7a3d41201ca4435d6ef4de506/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/home/larissa/.gradle/caches/transforms-2/files-2.1/708c02814ef78d5ec9f869f553414581/res/values-v23/values-v23.xml",
+                    "source": "/home/larissa/.gradle/caches/transforms-2/files-2.1/7c953901c932cb7c0c8c890ae693353e/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
