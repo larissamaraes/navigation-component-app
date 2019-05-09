@@ -26,7 +26,7 @@ class MainFragment : BaseFragment() {
                 findNavController().navigate(R.id.action_mainFragment_to_balanceFragment)
             }
             paySomeoneButton.setOnClickListener {
-                findNavController().navigate(R.id.action_peopleFragment_to_payPersonFragment)
+                findNavController().navigate(R.id.action_mainFragment_to_peopleFragment)
             }
         }
     }
