@@ -6,6 +6,8 @@ import android.graphics.BitmapFactory
 import java.io.BufferedOutputStream
 import java.io.File
 import java.io.FileOutputStream
+import java.util.*
+import kotlin.concurrent.schedule
 
 infix fun <T> Boolean.then(element: T): T? = if (this) element else null
 infix fun Boolean.thenDo(function: () -> Unit) {
@@ -46,4 +48,8 @@ fun File.scaleImageDown(width: Int, height: Int) {
     val outputStream = BufferedOutputStream(FileOutputStream(this))
     rescaled.compress(Bitmap.CompressFormat.JPEG, 70, outputStream)
     outputStream.close()
+}
+
+fun (() -> Unit).delayInSeconds(time: Long) {
+    Timer().schedule(time * 1000L) { invoke() }
 }

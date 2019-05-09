@@ -12,6 +12,11 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
+            android:name="com.jera.apptemplate.presentation.view.main.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
             android:name="com.jera.apptemplate.presentation.view.splash.SplashActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
@@ -21,15 +26,5 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.jera.apptemplate.presentation.view.user.signin.LogInActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionbar"/>
-        <activity
-            android:name="com.jera.apptemplate.presentation.view.user.signup.SignUpActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionbar"/>
     </application>
 </manifest>

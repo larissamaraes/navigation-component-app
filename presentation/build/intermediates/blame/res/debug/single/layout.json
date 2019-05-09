@@ -1,14 +1,42 @@
 [
     {
-        "merged": "/home/larissa/app-template-android/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register.xml",
-        "source": "/home/larissa/app-template-android/presentation/src/main/res/layout/activity_register.xml"
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_view_balances.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/fragment_view_balances.xml"
     },
     {
-        "merged": "/home/larissa/app-template-android/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
-        "source": "/home/larissa/app-template-android/presentation/src/main/res/layout/activity_login.xml"
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_main.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/fragment_main.xml"
     },
     {
-        "merged": "/home/larissa/app-template-android/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/loading_placeholder.xml",
-        "source": "/home/larissa/app-template-android/presentation/src/main/res/layout/loading_placeholder.xml"
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_pay_person.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/fragment_pay_person.xml"
+    },
+    {
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_view_disclaimer.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/fragment_view_disclaimer.xml"
+    },
+    {
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_payment_complete.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/fragment_payment_complete.xml"
+    },
+    {
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_view_people.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/fragment_view_people.xml"
+    },
+    {
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/larissa/Documentos/navigation-component-app/presentation/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/loading_placeholder.xml",
+        "source": "/home/larissa/Documentos/navigation-component-app/presentation/src/main/res/layout/loading_placeholder.xml"
     }
 ]
